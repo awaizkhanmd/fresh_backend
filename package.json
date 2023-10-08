@@ -1,0 +1,11 @@
+{
+  "name": "sema_fresh_backend",
+  "version": "1.0.0",
+  "description": "Back-end data ETL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Awaiz",
+  "license": "ISC"
+}
